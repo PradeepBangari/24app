@@ -1,5 +1,5 @@
 # Enle Webapp 🌐
-## 🔗 Live Demo
+## 🔗 Live
 
 Check out the live demo [here](https://enle-24app.netlify.app)!
 
@@ -16,11 +16,12 @@ Check out the live demo [here](https://enle-24app.netlify.app)!
 - **Full-Stack Integration:** Utilizes the power of MERN stack for efficient and scalable development.
 - **Made in Karnataka:** Proudly developed in the heart of innovation.
 
-## 📸 Screenshots
+## 📸 Live Images
 
-![Screenshot 1](link-to-screenshot-1)
-![Screenshot 2](link-to-screenshot-2)
-
+![Screenshot 1](public/images/login.png)
+![Screenshot 2](public/images/homepage.png)
+![Screenshot 3](public/images/setting.png)
+![Screenshot 4](public/images/sidebar.png)
 ## 🏆 Inspiration
 
 Just like RCB'ians say every year, **#ESCN🏆** – Never lose hope! This project is a reminder to keep pushing forward, no matter the challenges.
