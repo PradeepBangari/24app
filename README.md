@@ -19,8 +19,11 @@ Check out the live demo [here](https://enle-24app.netlify.app)!
 ## 📸 Live Images
 
 ![Screenshot 1](public/images/login.png)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Screenshot 2](public/images/homepage.png)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Screenshot 3](public/images/setting.png)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Screenshot 4](public/images/sidebar.png)
 ## 🏆 Inspiration
 
@@ -30,7 +33,7 @@ Just like RCB'ians say every year, **#ESCN🏆** – Never lose hope! This proje
 
 This project is a result of my passion for coding and innovation. Feel free to connect with me:
 
-- [Email](mailto:pradeepbangari24@gmail.com) [LinkedIn](https://www.linkedin.com/in/pradeep-bangari24/)
+- [Email](mailto:pradeepbangari24@gmail.com) - [LinkedIn](https://www.linkedin.com/in/pradeep-bangari24/)
 
 ## 🤝 Contributing
 
